@@ -1,0 +1,7 @@
+driving-british-columbia:
+	- English queries may be ambigious with respect to type of licence (driving intended, interpreted as radio at least once)
+	- French queries may sometimes be ambigious about the exact step in the licencing process
+	- BC Licencing system is undergoing changes (2026), which may result in the query/answer pairs becoming stale
+
+vacine-*:
+	- Gold responses focus on the standard immunization schedule and do not include cases like missed doses or patients with health conditions that may require changes to the vaccination schedule
